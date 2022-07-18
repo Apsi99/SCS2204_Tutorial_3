@@ -1,5 +1,5 @@
 //Question 01------------------------------------------
-def Area_Of_Disk(r:Double):Unit={
+def Area_Of_Disk(r:Double):Double={
   math.Pi * r * r
 }
 Area_Of_Disk(5)
